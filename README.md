@@ -1,20 +1,34 @@
 Python:
-print("Nothing to say about me.")
+
+<code>print("Nothing to say about me.")</code>
+
 
 JavaScript:
-console.log("Nothing to say about me.");
+
+<code>console.log("Nothing to say about me.");</code>
+
 
 HTML:
-<p>Nothing to say about me.</p>
+
+
+<code><p>Nothing to say about me.</p></code>
+
 
 C:
-printf("Nothing to say about me.");
+
+<code>printf("Nothing to say about me.");</code>
+
 
 C++:
-cout << "Nothing to say about me.";
+
+<code>cout << "Nothing to say about me.";</code>
+
 
 Batch:
-echo Nothing to say about me.
+
+<code>echo Nothing to say about me.</code>
+
 
 C#:
-Console.WriteLine("Nothing to say about me.");
+
+<code>Console.WriteLine("Nothing to say about me.");</code>
