@@ -10,8 +10,7 @@ JavaScript:
 
 HTML:
 
-
-<code><p>Nothing to say about me.</p></code>
+<code><span><</span>p<span>></span>Nothing to say about me.<span><</span><span>/</span>p<span>></span></code>
 
 
 C:
