@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ElBe-Plaq</h1>
+<h1 align="center">Hi, I'm ElBe-Plaq</h1>
 <h3 align="center">Sometimes I even write good code...</h3>
 
 - 🔭 I’m currently working on [I Language](https://github.com/I-Language-Development/I-Language-Rust)
@@ -25,4 +25,3 @@
 <p><a href="https://ko-fi.com/ElBe-Plaq"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ElBe-Plaq" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elbe-plaq&show_icons=true&theme=tokyonight&locale=en" alt="Github statistics" /></p>
-<p>&nbsp;<a href="https://discord.com/users/745695237380243457"><img align="center" src="https://lanyard.cnrad.dev/api/745695237380243457" alt="Discord profile" /></a></p>
