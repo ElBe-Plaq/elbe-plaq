@@ -1,9 +1,15 @@
-<h1 align="center">Hi, I'm ElBe-Plaq</h1>
-<h3 align="center">Sometimes, I even write good code...</h3>
+<h1 align="center">Hi 👋, I'm ElBe-Plaq</h1>
+<h3 align="center">Sometimes I even write good code...</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elbe-plaq" alt="elbe-plaq" /></a> </p>
+- 🔭 I’m currently working on [I Language](https://github.com/I-Language-Development/I-Language-Rust)
 
 - 🌱 I’m currently learning **Rust, Java**
+
+- 🤝 I’m looking for help with [I Language](https://github.com/I-Language-Development/I-Language-Rust)
+
+- 💬 Ask me about **python, I Language, discord.py**
+
+- 📫 How to reach me **elbe.dev.plaq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +24,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ElBe-Plaq"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ElBe-Plaq" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elbe-plaq&show_icons=true&locale=en" alt="elbe-plaq" /></p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/745695237380243457)](https://discord.com/users/745695237380243457)&nbsp;&nbsp;
-[![ElBe Plaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElBe-Plaq&theme=tokyonight&show_icons=true)](https://github.com/ElBe-Plaq)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElBe-Plaq&layout=compact&include_all_commits=true)](https://github.com/ElBe-Plaq/repos)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elbe-plaq&show_icons=true&theme=tokyonight&locale=en" alt="Github statistics" /></p>
+<p>&nbsp;<a href="https://discord.com/users/745695237380243457"><img align="center" src="https://lanyard.cnrad.dev/api/745695237380243457" alt="Discord profile" /></a></p>
