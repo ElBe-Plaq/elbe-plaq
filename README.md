@@ -14,6 +14,9 @@
   <a href="https://ko-fi.com/elbeplaq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
   </a>
+  <a href="https://mastodon.social/@elbe_plaq" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=563ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mastodon logo"  />   
+  </a>
 </div>
 
 ###
